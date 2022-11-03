@@ -1,7 +1,8 @@
 # shoppingmall_admin
 쇼핑몰 관리자 페이지
 
-url : http://power933.cafe24.com/shop/admin/index.jsp(test id : admin , test pw : 1234)
+url : http://power933.cafe24.com/shop/admin/index.jsp
+(test id : admin , test pw : 1234)
 
 1.개발환경 언어 : Java(JDK 1.8) HTML/CSS, JavaScript 
 
